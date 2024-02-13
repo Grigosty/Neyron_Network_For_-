@@ -1,0 +1,17 @@
+body{ background: green;}
+    table {color: grey;  border-collapse: collapse;margin:auto;}		
+    td {background: #ffffff; border: 1px solid black ;padding:20px;}
+    td:hover {background: #333333}
+    td.td2 {background: #ffffff;}
+
+    .res{
+        text-align: center;
+        font-size: 50px;
+        margin: 30px;
+    }
+
+    .chance{
+        text-align: center;
+        font-size: 20px;
+    }
+    
